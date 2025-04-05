@@ -33,7 +33,7 @@ Este projeto representa o modelo conceitual de banco de dados para um sistema de
 
 ## 🖼️ Diagrama
 
-![Diagrama ER - Oficina](Diagramas/Diagrama_ER.JPG)
+![Diagrama ER - Oficina](Digramas/Diagrama_ER.jpg)
 
 ## 🔧 Observações
 
