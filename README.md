@@ -1,7 +1,23 @@
 # Modelo Conceitual - Oficina Mecânica
 
-## 💡 Descrição
+## 📌 Objetivo 
 Este projeto representa o modelo conceitual de banco de dados para um sistema de controle e gerenciamento de ordens de serviço em uma oficina mecânica. Foi desenvolvido como parte do Bootcamp "Inteligência Artificial Aplicada a Dados com Copilot" da DIO.
+
+## 💡 Descrição do Desafio
+Este projeto consiste na criação de um modelo conceitual de banco de dados para uma oficina mecânica, com base em uma narrativa proposta no bootcamp Inteligência Artificial Aplicada a Dados com Copilot - DIO.
+
+🛠️ Objetivo
+Modelar as entidades, atributos e relacionamentos a partir do cenário onde:
+
+Clientes levam veículos para revisões ou consertos;
+
+Cada veículo é associado a uma equipe de mecânicos;
+
+Os serviços executados são registrados em Ordens de Serviço (OS) com data, valor, status e previsão de conclusão;
+
+Os custos são definidos com base em mão de obra e peças utilizadas;
+
+A mesma equipe avalia e executa os serviços após autorização do cliente.
 
 ## 📘 Contexto da Narrativa
 
